@@ -1,5 +1,5 @@
 # hello-world
-Just another first repository
+Just another firt repossitory
 
 Hello Humans!
 
