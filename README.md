@@ -1,4 +1,4 @@
 # hello-world
-Just another firt repossitory
+Just another firt repository
 
 Hello Humans!
